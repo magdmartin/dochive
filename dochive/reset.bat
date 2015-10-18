@@ -9,3 +9,4 @@ mkdir output
 copy debug\*.pdf input
 
 pause
+tesr
